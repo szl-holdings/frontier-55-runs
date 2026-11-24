@@ -1,0 +1,6 @@
+{
+ "gate": "frontier_promotion_v1",
+ "selftest": "SELFTEST 10/10 OK",
+ "rc": 0,
+ "note": "CLI run on device betterwithage 2026-11-20; log captured verbatim in selftest_receipt.log"
+}
